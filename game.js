@@ -1033,7 +1033,7 @@ $.setState = function( state ) {
 			lockedWidth: 299,
 			lockedHeight: 49,
 			scale: 3,
-			title: 'JS13KGAMES',
+			title: 'ARJUN',
 			action: function() {				
 				location.href = 'http://js13kgames.com';
 				$.mouse.down = 0;
@@ -1280,7 +1280,7 @@ $.setupStates = function() {
 			ctx: $.ctxmg,
 			x: $.cw / 2 - 10,
 			y: creditsTitle.ey + 49,
-			text: 'CREATED FOR JS13KGAMES BY\nINSPIRATION AND SUPPORT\n\nAUDIO PROCESSING\nGAME INSPIRATION AND IDEAS\n\nHTML5 CANVAS REFERENCE\n\nGAME MATH REFERENCE',
+			text: 'CREATED FOR Friends BY\nINSPIRATION AND SUPPORT\n\nAUDIO PROCESSING\nGAME INSPIRATION AND IDEAS\n\nHTML5 CANVAS REFERENCE\n\nGAME MATH REFERENCE',
 			hspacing: 1,
 			vspacing: 17,
 			halign: 'right',
